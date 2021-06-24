@@ -1,6 +1,6 @@
 * interface
 
-[설명 바로가기](https://blog.naver.com/pjt3591oo/222317130702)
+[설명 바로가기](https://develop-obm.tistory.com/22)
 
 ```js
 event Transfer(address indexed _from, address indexed _to, uint256 indexed _tokenId);
